@@ -2,6 +2,7 @@
  An embodied ML interaction
 ## Artist statement:
 ## Ideation:
+
  
 ![ideation image](./process/images/GridSpace-selfLocator-00.png)
 
@@ -20,3 +21,13 @@
 
 - [InteractML : Interactive Machine Learning System | UE5 plug in](https://www.unrealengine.com/marketplace/en-US/product/interactml-interactive-machine-learning-system)
 ## Thematic & artistic references:
+
+- [The Situated Self, J. T. Ismael](https://academic.oup.com/book/2503?login=true)
+- Sekamol :
+	- https://www.instagram.com/p/Cn7KpsNMrAL/?img_index=1
+	- https://www.instagram.com/p/CnuvlvsJCtG/
+	- https://www.instagram.com/p/Cmb9b2tpVsZ/
+	- https://www.instagram.com/p/CqpkPyJI9sT/
+	- https://www.instagram.com/p/CnynC-4gdjn/
+	- https://www.instagram.com/p/CnPHVL7ptP9/
+- 

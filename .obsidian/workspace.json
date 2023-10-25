@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "process/design-docs/Brainstorming questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88611ab9fac1ce1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4efc69dfd8873d30",
@@ -146,11 +160,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58e17605da4aa458",
+  "active": "88611ab9fac1ce1c",
   "lastOpenFiles": [
+    "process/design-docs/Brainstorming questions.md",
+    "process/images/3573937-control review 11.jpg",
+    "process/images/control-mood (4).jpg",
+    "process/images/control-mood (3).jpg",
+    "process/images/control-mood (2).jpg",
+    "process/images/control-mood (1).jpg",
+    "README.md",
+    "process/images/3573937-control review 11.jpg.crdownload",
+    "process/images/Control-Screen-1024x572.jpg",
+    "process/images/Control-Screen-1024x572.jpg.crdownload",
+    "process/images/Control_Screensot.jpg",
+    "process/images/Control_Screensot.jpg.crdownload",
+    "process/images/Control_Spiral_Hallway-1024x576.jpg",
+    "process/images/Control_Spiral_Hallway-1024x576.jpg.crdownload",
+    "process/design-docs",
     "process/images/GridSpace-selfLocator-02.png",
     "process/images/GridSpace-selfLocator-01.png",
-    "process/images/GridSpace-selfLocator-00.png",
     "process/images"
   ]
 }
