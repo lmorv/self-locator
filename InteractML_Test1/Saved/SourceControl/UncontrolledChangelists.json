@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Research/Documents/GitHub/self-locator/InteractML_Test1/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Research/Documents/GitHub/self-locator/InteractML_Test1/Content/Characters/Sphere/Sphere_BPTest.uasset",
+				"C:/Users/Research/Documents/GitHub/self-locator/InteractML_Test1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Research/Documents/GitHub/self-locator/InteractML_Test1/Content/Characters/Sphere/sphereCharacter_Skeleton.uasset",
+				"C:/Users/Research/Documents/GitHub/self-locator/InteractML_Test1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/2F/P8MDX4967SFAVJ5U1MW6QM.uasset",
+				"C:/Users/Research/Documents/GitHub/self-locator/InteractML_Test1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Backup.uasset",
+				"C:/Users/Research/Documents/GitHub/self-locator/InteractML_Test1/Content/ThirdPerson/Maps/_GENERATED/Research/Sphere_D48CE2C8.uasset",
+				"C:/Users/Research/Documents/GitHub/self-locator/InteractML_Test1/Content/Characters/Sphere/sphereCharacter_PhysicsAsset.uasset",
+				"C:/Users/Research/Documents/GitHub/self-locator/InteractML_Test1/Content/StarterContent/Materials/M_AssetPlatform.uasset",
+				"C:/Users/Research/Documents/GitHub/self-locator/InteractML_Test1/Content/Characters/Sphere/sphereCharacter.uasset",
+				"C:/Users/Research/Documents/GitHub/self-locator/InteractML_Test1/Content/Characters/Sphere/materials/M_HLSL_Raymarch-flat.uasset"
+			]
+		}
+	]
+}
